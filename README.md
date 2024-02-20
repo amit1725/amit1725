@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Budhodkar</h1>
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning React.js
 
 - 💬 I am Passionate about Problem Solving **DSA**
 
