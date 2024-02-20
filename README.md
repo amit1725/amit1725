@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Budhodkar</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit1725" alt="amit1725" /></a> </p>
-
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Ract.js**
 
 - 💬 I am Passionate about Problem Solving **DSA**
 
