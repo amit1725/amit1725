@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js<br>💬 I 'm Passionate about Problem Solving(DSA)
+🌱 I’m currently learning React.js<br>💬 I'm Passionate about Problem Solving (DSA)
 
 
 ## 🌐 Socials:
